@@ -114,7 +114,7 @@ function Services() {
         {/* Appointment Button */}
         <div className="text-center mt-16">
           <a
-            href="https://wa.me/9158303533"
+            href="https://wa.me/918625926777?text=Hello%20Doctor,%0A%0AI%20would%20like%20to%20book%20an%20appointment.%0A%0AName:%20%0AContact%20Number:%20%0APreferred%20Date:%20%0AProblem:%20"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-block px-8 py-4 bg-green-500 text-white 
