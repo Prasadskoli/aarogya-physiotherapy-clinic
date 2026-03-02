@@ -1,11 +1,11 @@
 import { motion, AnimatePresence } from "framer-motion";
 import { useState } from "react";
-import img1 from "../assets/gallery1.jpeg";
-import img2 from "../assets/gallery2.jpeg";
-import img3 from "../assets/gallery3.jpeg";
-import img4 from "../assets/gallery4.jpeg";
-import img5 from "../assets/gallery5.jpeg";
-import video1 from "../assets/gallery6.mp4";
+import img1 from "../assets/temp1.jpeg";
+import img2 from "../assets/temp2.jpeg";
+import img3 from "../assets/temp3.jpeg";
+import img4 from "../assets/temp4.jpeg";
+import img5 from "../assets/temp5.jpeg";
+import video1 from "../assets/temp6.mp4";
 
 function Gallery() {
   const [selectedItem, setSelectedItem] = useState(null);
