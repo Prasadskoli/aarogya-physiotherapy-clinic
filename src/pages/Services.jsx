@@ -6,6 +6,7 @@ import {
   HeartPulse,
   Dumbbell,
   Search,
+  Footprints,
 } from "lucide-react";
 
 function Services() {
@@ -31,6 +32,11 @@ function Services() {
       category: "Neuro",
       icon: <HeartPulse />,
     },
+   {
+  name: "Heel Pain (टाच दुखणे)",
+  category: "Pain",
+  icon: <Footprints />,
+},
   ];
 
   const filteredConditions = conditions.filter((item) => {

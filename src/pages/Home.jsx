@@ -70,7 +70,7 @@ useEffect(() => {
   {/* CALL BUTTON */}
   <button
     onClick={() => {
-      window.location.href = "tel:+919158303533";
+      window.location.href = "tel:+918625926777";
     }}
     className="px-5 py-2 md:px-6 md:py-3 
     bg-primary text-white rounded-full 
